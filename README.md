@@ -7,6 +7,7 @@ Mondrian AI 의 신규 서비스 AI-Playground 의 사용자 피드백 저장소
 * [의견 남기기](https://github.com/mondrianai/AI-Playground-users/issues/new)
 
 
-contact@mondrian.ai 
-https://www.mondrian.ai 
+기타 문의 
+* https://www.mondrian.ai 
+* contact@mondrian.ai 
 
